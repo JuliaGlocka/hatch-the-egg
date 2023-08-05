@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/nerdbord/hatch-the-egg#readme",
   "dependencies": {
+    "audit": "^0.0.6",
+    "fix": "^0.0.6",
+    "npm": "^9.8.1",
     "prettier": "^3.0.0"
   }
 }
